@@ -18,8 +18,7 @@
 
 ## 🌐 &nbsp;Contact
 
-[![LinkedIn](https://img.shields.io/badge/-rahulyadav-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-yadav-36273220a
-)](https://www.linkedin.com/in/rahul-yadav-36273220a/)
+[![LinkedIn](https://img.shields.io/badge/-rahulyadav-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/spoorti-satenahalli)](www.linkedin.com/in/spoorti-satenahalli)
 [![Gmail Badge](https://img.shields.io/badge/-rahullyadavv77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahullyadavv77@gmail.com)](mailto:spoortisatenahalli@gmail.com)
 
 
