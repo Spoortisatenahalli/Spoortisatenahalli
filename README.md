@@ -13,13 +13,13 @@
 
 <br>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=electrifire-123&label=Profile%20views&color=0e75b6&style=flat-square" alt="Rahul Yadav" />
+  <img src="https://komarev.com/ghpvc/?username=Spoortisatenahalli&label=Profile%20views&color=0e75b6&style=flat-square" alt="Spoortisatenahalli" />
 </p>
 
 ## 🌐 &nbsp;Contact
 
-[![LinkedIn](https://img.shields.io/badge/-rahulyadav-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/spoorti-satenahalli)](www.linkedin.com/in/spoorti-satenahalli)
-[![Gmail Badge](https://img.shields.io/badge/-rahullyadavv77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahullyadavv77@gmail.com)](mailto:spoortisatenahalli@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-spoortisatenahalli-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/spoorti-satenahalli)](www.linkedin.com/in/spoorti-satenahalli)
+[![Gmail Badge](https://img.shields.io/badge/-spoortisatenahalli@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spoortisatenahalli@gmail.com)](mailto:spoortisatenahalli@gmail.com)
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -31,5 +31,5 @@
     <img alt="React" title="React" height="55" width="auto" src="https://t3.ftcdn.net/jpg/03/04/97/12/240_F_304971233_mQ4xlfnBGSszgzJPYzQnZtWI04ZNmuuP.jpg">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Electrifire-123&layout=compact)](https://github.com/Electrifire-123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spoortisatenahalli&layout=compact)](https://github.com/Spoortisatenahalli/github-readme-stats)
 
