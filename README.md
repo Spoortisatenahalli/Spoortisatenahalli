@@ -9,7 +9,7 @@
 
 - 🧑‍💻 &nbsp; Self Taught Frontend Developer.
 - 🤔 &nbsp; Exploring Web technologies and developing software solutions.
-- 🎓 &nbsp; Studied Electrical Engineering at SGBAU Amravati.
+- 🎓 &nbsp; Studied Computer Science Engineering at SKSVMACET.
 
 <br>
 <p align="left"> 
@@ -20,7 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-rahulyadav-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-yadav-36273220a
 )](https://www.linkedin.com/in/rahul-yadav-36273220a/)
-[![Gmail Badge](https://img.shields.io/badge/-rahullyadavv77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahullyadavv77@gmail.com)](mailto:rahullyadavv77@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rahullyadavv77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahullyadavv77@gmail.com)](mailto:spoortisatenahalli@gmail.com)
 
 
 ## 🛠 &nbsp;Tech Stack
